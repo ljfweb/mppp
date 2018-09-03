@@ -1,0 +1,9 @@
+{
+	"detail":[
+	             
+	             	{"pid":"001","smallsrc":["../../static/img/sh1.png","../../static/img/xq1.png","../../static/img/xq3.png"],"shoppics":["../../static/img/xq11.png","../../static/img/xq3.png","../../static/img/xq1.png"],"xiejiepic":["../../static/img/xq8.png","../../static/img/xq4.png","../../static/img/xq2.png"],"price":"26","name":"新款渐变色玻璃杯户外便携水杯","purchase":"6","discounts":"10","retailprice":"36","category":"水杯","sold":"438" },
+	             	{"pid":"002","smallsrc":["../../static/img/sh2.png","../../static/img/xq1.png","../../static/img/xq3.png"],"shoppics":["../../static/img/xq11.png","../../static/img/xq3.png","../../static/img/xq1.png"],"xiejiepic":["../../static/img/xq8.png","../../static/img/xq4.png","../../static/img/xq2.png"],"price":"23","name":"可爱猫卡康陶瓷杯","purchase":"3","discounts":"5","retailprice":"28","category":"卡通水杯","sold":"520" },
+	             	{"pid":"003","smallsrc":["../../static/img/sh3.png","../../static/img/xq1.png","../../static/img/xq3.png"],"shoppics":["../../static/img/xq11.png","../../static/img/xq3.png","../../static/img/xq1.png"],"xiejiepic":["../../static/img/xq8.png","../../static/img/xq4.png","../../static/img/xq2.png"],"price":"26","name":"超萌立体猫咪","purchase":"4","discounts":"8","retailprice":"34","category":"立体水杯","sold":"920" },
+	             	{"pid":"004","smallsrc":["../../static/img/sh4.png","../../static/img/xq1.png","../../static/img/xq3.png"],"shoppics":["../../static/img/xq11.png","../../static/img/xq3.png","../../static/img/xq1.png"],"xiejiepic":["../../static/img/xq8.png","../../static/img/xq4.png","../../static/img/xq2.png"],"price":"23","name":"太阳能移动充","purchase":"1","discounts":"5","retailprice":"28","category":"移动充","sold":"658" }
+	             ]
+}
